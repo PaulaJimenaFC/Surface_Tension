@@ -1,7 +1,7 @@
 # Surface_Tension
 
 
-This repository contains files related to the research conducted with professors Amauri Jardim de Paula and James Moraes de Almeida. The primary file ('Best_regressor_with_PCA.ipynb') encompasses experiments for predicting the surface tension of hydrocarbons. Four tabular Machine Learning regressors were proposed:
+This repository contains files related to the research conducted with professors Amauri Jardim de Paula and James Moraes de Almeida. The primary file (`Best_regressor_with_PCA.ipynb`) encompasses experiments for predicting the surface tension of hydrocarbons. Four tabular Machine Learning regressors were proposed:
 
 - XGBoost
 - Random Forest
